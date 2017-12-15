@@ -27,9 +27,9 @@ Gephi https://gephi.org/
 
 Graphviz http://www.graphviz.org/download/
 
-Maltego CaseFile
+Maltego CaseFile https://www.paterva.com/web7/buy/maltego-clients/casefile.php
 
-Maltego CE
+Maltego CE https://www.paterva.com/web7/buy/maltego-clients/maltego-ce.php
 
 Social Networks Visualiser (SocNetV) http://socnetv.org/downloads
   A flexible and user-friendly tool for the analysis and visualization of Social Networks.
